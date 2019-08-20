@@ -69,7 +69,7 @@ def init():
 
 
 def setpeice():
-
+#iam making a coment here
     defx=300
     defy=100
 
